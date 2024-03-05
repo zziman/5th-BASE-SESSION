@@ -33,31 +33,17 @@
     
 <br/>
 
-## BASE 세션 주차 별 커리큘럼
-
-| 주차 | 분류/분할 | 탐지/생성 | 자연어 |
-| --- | --- | --- | --- |
-| 1주 | Network(1) | Object Detection(1) | NLP(1) |
-| 2주 | Network(2) | Object Detection(2) | NLP(2) |
-| 3주 | Network(3) | Object Detection(3) | NLP(3) |
-| 4주 | Image Segmentation(1) | Object Detection(4) | NLP(4) |
-| 5주 | Image Segmentation(2) | Auto Encoder(1) | NLP(5) |
-| 6주 | Image Segmentation(3) | Auto Encoder(2) | NLP(6) |
-| 7주 | Image Segmentation(4) | GAN(1) | NLP(7) |
-| 8주 | GAN(2) | GAN(3) | GAN(4) |
-
-<br/>
-
 ## BASE 세션 주차 별 상세 커리큘럼
 
-| 주차 | 분류/분할 | 탐지/생성 | 자연어 |
-| --- | --- | --- | --- |
-| 1주 | InceptionV3 | SPPNet | Seq2Seq |
-| 2주 | DCN | Faster R-CNN | Transformer |
-| 3주 | EfficientNet | YOLO | ELMO |
-| 4주 | U-Net | RetinaNet | GPT-1 |
-| 5주 | SegNet | AE | Digital Signal Bert |
-| 6주 | DeepLAB | VAE | RoBERTa |
-| 7주 | Mask-RCNN | GAN | BART |
-| 8주 | CycleGAN | StyleGAN | StarGAN |
+| 주차 | CV1 | CV2 | NLP1 | NLP2 |
+| --- | --- | --- | --- | --- |
+| 1주 | InceptionV3 | SPPNet | Seq2Seq | Attention |
+| 2주 | MobileNet | Faster R-CNN | Transformer | ELMO |
+| 3주 | EfficientNet | YOLO | GPT-1 | BERT |
+| 4주 | U-Net | RetinaNet | RoBERTa | BART |
+| 5주 | SegNet | VAE | MASS | MTDNN |
+| 6주 | Mask-RCNN | GAN | XLNet | ALBERT |
+| 7주 | CycleGAN | StarGAN | T5 | DeBERTa |
+| 8주 | Taskonomy | Noisy Student Training | ELECTRA | GPT-3 |
+| 9주 | ETC | ETC | ETC | ETC | 
 
