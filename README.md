@@ -39,8 +39,8 @@
 | --- | --- | --- | --- | --- |
 | 1주 | InceptionV3 | SPPNet | Seq2Seq | Attention |
 | 2주 | MobileNet | Faster R-CNN | Transformer | ELMO |
-| 3주 | EfficientNet | YOLO | GPT-1 | BERT |
-| 4주 | U-Net | RetinaNet | RoBERTa | BART |
+| 3주 | U-Net | YOLO | GPT-1 | BERT |
+| 4주 | EfficientNet | RetinaNet | RoBERTa | BART |
 | 5주 | SegNet | VAE | MASS | MTDNN |
 | 6주 | Mask-RCNN | GAN | XLNet | ALBERT |
 | 7주 | CycleGAN | StarGAN | T5 | DeBERTa |
